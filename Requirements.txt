@@ -5,3 +5,9 @@ Pillow
 matplotlib
 folium
 streamlit-folium
+streamlit
+pandas
+openpyxl
+matplotlib
+Pillow
+fpdf
